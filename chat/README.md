@@ -1,1 +1,1 @@
-# TD1-INF3405
+# Chat simulation between clients
